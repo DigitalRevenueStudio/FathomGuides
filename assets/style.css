@@ -257,3 +257,7 @@ table.cmd code{font-family:var(--font-mono);font-size:.9rem;background:var(--bg-
 .tip-sec{padding-block:0 56px}
 nav .btn[aria-current="page"]{box-shadow:0 0 0 2px var(--bg),0 0 0 4px var(--gold)}
 .about-page .about{align-items:start}
+.page-hero .hero-tip{max-width:40em;margin-top:6px;padding:16px 18px}
+.page-hero .hero-tip p{font-size:.98rem;margin:0 0 6px;max-width:none}
+.page-hero .hero-tip h3{font-size:1.05rem}
+.page-hero .hero-tip p.src{font-size:.82rem;margin:0}
